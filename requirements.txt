@@ -4,4 +4,6 @@ streamlit==1.32.2
 tokenizers==0.15.2
 transformers==4.38.2
 python-docx
+sentencepiece
+
 
