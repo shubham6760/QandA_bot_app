@@ -6,7 +6,7 @@ transformers==4.38.2
 python-docx
 sentencepiece
 torch==1.9.0
-transformers==4.10.0
+
 
 
 
